@@ -1,0 +1,1 @@
+RedirectMatch 301 /site(.*) https://dl.dropbox.com/u/1234567/bhagavata.ru/$1
